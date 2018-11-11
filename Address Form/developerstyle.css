@@ -1,0 +1,17 @@
+div[main_div]{
+    width: 70%;
+    display: inline-block;
+    text-align: left;
+    
+}
+
+body{
+    text-align: center;
+    margin: 5%;
+}
+
+legend{
+    font: bolder;
+    font-size: 250%;
+}
+
